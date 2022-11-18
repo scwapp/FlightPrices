@@ -25,6 +25,7 @@ Answering the three initial questions:
 - It is best to buy flights more than 15 days in advance.
 - Flight class greatly influences price. It is cheaper to flight late at night. Flight duration and price are linearly related fro flights with 0 layovers.
 - Random forest algorithm allows to predict prices with an r2 of 0.985.
+
 See blog post [medium_post], for analysis results.
 
 ## Acknowledgements
